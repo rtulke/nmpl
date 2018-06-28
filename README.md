@@ -1,3 +1,3 @@
 # nmpl
 
-- non military public license
+- none m-i-l-i-t-a-r-y public license
